@@ -1,0 +1,17 @@
+.idea
+.DS_Store
+.env
+
+node_modules
+
+dist
+output
+coverage
+dist-ssr
+
+*.local
+stats.html
+
+components.d.ts
+
+.cache
